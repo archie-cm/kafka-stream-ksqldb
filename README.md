@@ -3,9 +3,9 @@
 This project includes dataset and the script needed to load the source data into a PostgreSQL table. 
 Open your PostgreSQL database with username and password "postgres" using your favourite database manager.
 
-##### Clone this repository and enter the directory
+##### Enter the directory
 ```bash
-git clone https://github.com/yevadrian/kafka-ksqldb-docker && cd kafka-ksqldb-docker
+cd kafka-ksqldb-docker
 ```
 
 ##### Create Kafka stacks with Docker Compose
